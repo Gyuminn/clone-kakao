@@ -3,7 +3,7 @@
     margin-bottom: 15px;
 }
 .user-component__column span{
-    font-size: 13px;
+    font-size: 5px;
 }
 .user-component,
 .user-component__column:first-child{

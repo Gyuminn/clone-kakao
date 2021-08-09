@@ -5,29 +5,30 @@
 }
 .doughnut__text {
     padding-right: 15px;
+    font-size: 5px;
 }
 .doughnut__img {
     border: 3px solid rgba(7, 243, 27, 0.959);
     border-radius: 50px;
     height: 18px;
-    width: 105px;
+    width: 85px;
     position: absolute;
     right: 3px;
 }
 
 .doughnut__img--yeji {
-    width: 225px;
+    width: 180px;
 }
 
 .doughnut__img--irin {
-    width: 155px;
+    width: 125px;
 
 }
 
 .doughnut__img--iu{
-    width: 210px;
+    width: 165px;
 }
 
 .doughnut__img--suzy{
-    width: 120px;
+    width: 95px;
 }
