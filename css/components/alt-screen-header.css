@@ -30,11 +30,3 @@
 .alt-header__column span:last-child {
     margin-left: 20px;
 }
-
-.main-chat {
-    margin-top: 100px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-size: 14px;
-}
